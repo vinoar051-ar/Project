@@ -27,6 +27,8 @@ plt.show()
 
 ## Results
 
+![Visualization of Top Skills for Data Nerds](images/skill_demand_all_data_roles.png)
+
 ## Insights: Skill Demand in India Job Postings
 
 ### Overall
